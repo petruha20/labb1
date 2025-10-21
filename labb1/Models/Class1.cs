@@ -1,4 +1,4 @@
-﻿namespace MyCSharpProject.Models;
+﻿namespace MyCompany.Models;
 
 public class Person
 {

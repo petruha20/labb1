@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using MyCSharpProject.Models; // Подключаем наше пространство имён
+using MyCompany.Models;
 
 Console.WriteLine("Привет! Это моя первая программа на C#!");
 

@@ -7,10 +7,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="Новая папка\services\" />
-    <Folder Include="Новая папка\data\" />
-    <Folder Include="Новая папка\tests\" />
-  </ItemGroup>
-
 </Project>
