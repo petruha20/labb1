@@ -1,4 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// Главная точка входа в приложение
+// Настраивает контейнер зависимостей (DI)
+// Конфигурирует middleware pipeline
+// Запускает веб-хост или консольное приложение
 using MyCompany.Models;
 
 Console.WriteLine("Привет! Это моя первая программа на C#!");
